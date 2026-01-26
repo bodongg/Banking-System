@@ -1,0 +1,1 @@
+A Java-based desktop banking system application with a graphical user interface (GUI) built using Swing. This application simulates basic banking operations including user registration, login, account management, and financial transactions with persistent data storage.
